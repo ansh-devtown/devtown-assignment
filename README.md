@@ -24,7 +24,6 @@ Install nodemon
 ```bash
   npm install -g nodemon
   npm install
-  
 ```
 
 To Run
