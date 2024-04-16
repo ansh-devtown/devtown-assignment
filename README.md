@@ -31,7 +31,6 @@ To Run
 
 ```bash
   npm run dev
-  
 ```
 
 #### Add User
