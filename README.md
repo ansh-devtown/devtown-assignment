@@ -1,5 +1,39 @@
 # Devtown-assignment
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`DB_USER`
+
+`DB_PASS`
+
+`DB_HOST`
+
+`DB_NAME`
+
+`PORT`
+
+`NODE_ENV`
+
+
+## Installation
+
+Install nodemon 
+
+```bash
+  npm install -g nodemon
+  npm install
+  
+```
+
+To Run
+
+```bash
+  npm run dev
+  
+```
+
 #### Add User
 
 ```http
